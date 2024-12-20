@@ -1,8 +1,7 @@
 python
 #!/usr/bin/env python3
 # A Program to interface with the PhishMe API and pull down the full CSV Results from the previous month
-# Originally written by ************ @BlankSpace2Day
-# Improved by Cedric
+# Originally written by ************ Mick @BlankSpace2Day(X)
 
 import json
 import csv
